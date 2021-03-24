@@ -8,4 +8,4 @@
 # Nominadas
 
 - Toy story
-- Pirata del caribe 2
+- Mision imposible
